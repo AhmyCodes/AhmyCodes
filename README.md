@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a Computer Science student at the University of Massachusetts Amherst, passionate about developing innovative software solutions and driving technological advancements. Here, you'll find a variety of projects showcasing my skills and interests in different areas of computer science and software development.
 
-![Profile Banner](https://github.com/ahmycodes/ahmycodes/raw/main/assets/banner.png)
+![Profile Banner](https://via.placeholder.com/1000x300.png?text=Want%20to%20see%20what%20I'm%20building%3F&bg=ff6600&fg=ffffff)
 
 ## 📫 Contact
 - **Email:** [ahmedsaeed.fps@gmail.com](mailto:ahmedsaeed.fps@gmail.com)
@@ -32,8 +32,6 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="40">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40">
@@ -55,10 +53,6 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-PyGame-00BFFF?style=for-the-badge&logo=python&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40">
-  <img src="https://img.shields.io/badge/-Unix-4D4D4D?style=for-the-badge&logo=unix&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-Agile-007ACD?style=for-the-badge&logo=agile&logoColor=white" height="40">
