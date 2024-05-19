@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 
 
 ## 🎉 Fun Fact
-When I'm not coding, you can find me exploring new hiking trails 🏔️, or running towards a football ⚽. I'm also an avid traveler and love learning about different cultures.
+When I'm not coding, you can find me exploring new hiking trails 🏔️, or scoring golazos ⚽. I'm also an avid traveler and love learning about different cultures.
 
 Thank you for visiting my profile! Feel free to explore my projects and reach out if you’d like to collaborate or chat about tech and innovation.
 
