@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a Computer Science student at the University of Massachusetts Amherst, passionate about developing innovative software solutions and driving technological advancements. Here, you'll find a variety of projects showcasing my skills and interests in different areas of computer science and software development.
 
-![Placeholder](https://via.placeholder.com/1000x300/FFFF00/000000?text=Placeholder+Image)
+![Placeholder]([https://via.placeholder.com/1000x300/FFFF00/000000?text=Placeholder+Image](https://dummyimage.com/800x400/fbff00.png&text=Want+to+see+what+I'm+building))
 
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-ff6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsaeed.fps@gmail.com)
