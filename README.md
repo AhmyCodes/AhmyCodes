@@ -57,32 +57,6 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
   <img src="https://img.shields.io/badge/-Agile-007ACD?style=for-the-badge&logo=agile&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40">
 
-## 🎓 Education
-
-**University of Massachusetts Amherst**
-- BSc Computer Science | Business Minor
-- Chancellor’s Award
-- Expected Graduation: Dec 2024
-
-## 💼 Experience
-
-### Regional Economic Models, Inc
-*Research & Development Intern* (June 2023 – Sep 2023)
-- QA tested over 50 policy analysis models, identifying and reporting 400+ software errors to ensure consistency and functionality.
-- Documented software functionalities and testing outcomes, enhancing troubleshooting efficiency by 30%.
-
-### Folio3
-*Engineering Intern* (Jan 2023 – Feb 2023) | Karachi, Pakistan
-- Developed and implemented responsive web applications using React.js, increasing client website traffic by 20%.
-- Utilized agile methodologies to deliver high-quality web applications, reducing project timelines by 30%.
-- Achieved a 95% customer satisfaction rating through effective collaboration with the app development team.
-
-### University Health Services, University of Massachusetts Amherst
-*IT Staff* (Feb 2023 – Present)
-- Enhanced insurance verification software functionality, boosting patient data management efficiency by 20%.
-- Managed IT infrastructure and provided technical support to ensure uninterrupted operations.
-- Implemented cybersecurity protocols, safeguarding sensitive patient information.
-
 
 ## 🎉 Fun Fact
 When I'm not coding, you can find me exploring new hiking trails 🏔️, or running towards a football ⚽. I'm also an avid traveler and love learning about different cultures.
