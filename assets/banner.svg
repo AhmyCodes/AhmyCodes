@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Ahmed Saeed</title>
+<desc id="desc">Curious by nature. Builder by habit. A charcoal banner with blue and warm orange geometric accents.</desc>
+<rect width="1200" height="320" rx="16" fill="#141A23"/>
+<path d="M0 2H1200" stroke="#5D9DFF" stroke-width="4"/>
+<g fill="none" stroke="#293545" stroke-width="1">
+<path d="M860 0V320M940 0V320M1020 0V320M1100 0V320M1180 0V320M820 80H1200M820 160H1200M820 240H1200"/>
+<circle cx="1020" cy="160" r="102"/><circle cx="1020" cy="160" r="62"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="58" y="66" fill="#8FA4BE" font-size="14" letter-spacing="3">AHMYCODES</text>
+<text x="54" y="153" fill="#F4F1E9" font-size="70" font-weight="700" letter-spacing="-2">Ahmed Saeed</text>
+<text x="58" y="203" fill="#B4C0CF" font-size="25">Curious by nature. Builder by habit.</text>
+<text x="58" y="273" fill="#76ACFF" font-size="14" letter-spacing="2">APPLIED AI</text>
+<circle cx="182" cy="268" r="2" fill="#65778E"/>
+<text x="199" y="273" fill="#8FA4BE" font-size="14" letter-spacing="2">ENGINEERING</text>
+</g>
+<g fill="none" stroke="#76ACFF" stroke-width="2">
+<path d="M900 214V160H1020V107H1130"/>
+<circle cx="900" cy="214" r="8" fill="#141A23"/>
+<circle cx="1020" cy="160" r="8" fill="#76ACFF"/>
+<circle cx="1130" cy="107" r="8" fill="#E9AD85" stroke="#E9AD85"/>
+</g>
+<path d="M58 236H112" stroke="#E9AD85" stroke-width="3"/>
+</svg>
